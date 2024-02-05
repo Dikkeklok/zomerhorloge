@@ -1,0 +1,16 @@
+title: Zomerhorloge
+email: info@zomerhorloge.nl
+description: "Op zoek naar het zomerhorloge van het jaar? Zomerhorloge.nl heeft alle stijlen en prijsklassen voor je op een rijtje gezet!"
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site, e.g. http://example.com
+author: "Daan Goumans"
+instagram_username: "zomerhorloge"
+show_excerpts: true
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+permalink: /:categories/:title/
