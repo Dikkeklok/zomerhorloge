@@ -1,6 +1,8 @@
 ---
 layout: home
-title: Horloges
-list_title: "Suggesties"
+title: Welkom op ZomerHorloge.nl
+list_title: "Artikelen"
 ---
-_Zomerhorloge is hopefully become successful. This means - hence this blog - in me becoming the proud owner of a brand new Rolex timepiece. The goal of this blog however is to explain my decisions and thought process along the way, and to track developments over time. It will be mainly focussed on the operational aspects (details about setting up a website, do's/don'ts, etcetera) and give insights into various statistics. Enjoy!_
+_Nu de temperaturen stijgen en de dagen langer worden, verdient je pols een metgezel. Of je nu luiert bij het zwembad, nieuwe bestemmingen verkent of een stijlvolle soirée bijwoont, ZomerHorloge.nl is er om je zoektocht naar het beste zomer horloge te laten slagen. Kijk en lees onze artikelen en ontdek het perfecte zomerhorloge dat bij je persoonlijke zomerstijl past. Enjoy!_
+
+---
