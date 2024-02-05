@@ -1,0 +1,14 @@
+title: Zomerhorloge.nl
+email: info@zomerhorloge.nl
+description: "Op zoek naar het zomerhorloge van het jaar? Zomerhorloge.nl heeft alle stijlen en prijsklassen voor je op een rijtje gezet!"
+author: "Daan Goumans"
+instagram_username: "ZomerHorloge"
+show_excerpts: true
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+permalink: /:title
