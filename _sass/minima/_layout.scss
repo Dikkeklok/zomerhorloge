@@ -104,16 +104,16 @@
 */
 
 .page-pre-next-col-1 {
+  background-image: linear-gradient(to left, rgba(255,0,0,0),$grey-color-light);
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
   width:         calc(50% - (#{$spacing-unit} / 2));
 }
 
 .page-pre-next-col-2 {
-  text-align: right;
+  background-image: linear-gradient(to right, rgba(255,0,0,0),$grey-color-light);
   width: -webkit-calc(50% - (#{$spacing-unit} / 2));
   width:         calc(50% - (#{$spacing-unit} / 2));
 }
-
 
 /**
  * Site footer
@@ -186,6 +186,8 @@
 .page-content {
   padding: $spacing-unit 0;
   flex: 1;
+  background-image: linear-gradient(to top, rgba(255,0,0,0),$grey-color-light);
+
 }
 
 .page-heading {
