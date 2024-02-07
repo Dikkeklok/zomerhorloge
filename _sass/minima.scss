@@ -10,13 +10,14 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #111 !default;
-$background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+// https://palettes.shecodes.io/palettes/1410
+$text-color:       #33313b !default;
+$background-color: #fffdf0 !default;
+$brand-color:      #0d6478 !default;
 
-$grey-color:       #828282 !default;
+$grey-color:       #ff7700 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$grey-color-dark:  darken($grey-color, 10%) !default;
 
 $table-text-align: left !default;
 
