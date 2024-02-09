@@ -33,7 +33,7 @@ Horloges worden meestal verkocht met een waterdichtheidsrating. Bij aanschaf kan
 
 Deze druk wordt bepaald doormiddel van een compressietest. De aanname hierbij is wel dat het horloge goed dicht zit (dus bijvoorbeeld niet dat je onder water de tijd gaat verzetten), en dat het horloge vrij is van beschadigingen.
 
-**Zorg er dus in alle gevallen dat het horloge in aanraking kan komen met water voor dat de kroon van het horloge goed dicht zit.**
+**Zorg er in alle gevallen voor de kroon van het horloge goed dicht zit voor het horloge in aanraking komt met water!**
 
 ## Ouderdom, gebruik, beweging
 De waterdichtheid van een horloge kan in de loop van de tijd worden beïnvloed door verschillende factoren die verband houden met veroudering en slijtage.
